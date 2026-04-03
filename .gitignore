@@ -206,3 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 data/
+kaggle/
+kaggle.json
+raw_data/
