@@ -209,3 +209,4 @@ data/
 kaggle/
 kaggle.json
 raw_data/
+*.pth
