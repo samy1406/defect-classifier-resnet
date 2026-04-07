@@ -96,4 +96,4 @@ def train(mode="feature_extract", epochs=10, lr=1e-3, batch_size=32):
 
 
 if __name__ == "__main__":
-    train(mode="feature_extract", epochs=2, lr=1e-3, batch_size=8)
+    train(mode="feature_extract", epochs=10, lr=1e-3, batch_size=32)
